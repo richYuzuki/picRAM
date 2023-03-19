@@ -6,4 +6,4 @@
 3. 将「api.php」和「img.txt」上传至自己的网站目录，然后通过「xxxx/api.php」目录即可获得随机图
 
 
-图库下载地址：https://www.aliyundrive.com/s/WXg1mHTZSUH
+图库下载地址：https://www.aliyundrive.com/s/q9q7dAiY36b
